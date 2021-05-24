@@ -12,7 +12,7 @@ public class GetRequest01 {
      And
      content type should be json
      And
-     status line should be  HTTP/1.1 200 OK   */
+     status line should be  HTTP/1.1 200 OK ?fatih   */
     @Test
     public  void get01(){
         //set the url
